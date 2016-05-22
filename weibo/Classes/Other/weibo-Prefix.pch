@@ -1,0 +1,20 @@
+//
+//  weibo-Prefix.pch
+//
+//
+//  Created by afei on 15/11/26.
+//  Copyright © 2015年 afei. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "UIImage+WBImage.h"
+#import "UIView+Extension.h"
+#import "WBConst.h"
+#import "WBCommon.h"
+#import "NSString+Emoji.h"
+#import "UITextView+Extension.h"
+
+#endif
